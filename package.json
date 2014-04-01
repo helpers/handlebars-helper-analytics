@@ -1,0 +1,41 @@
+{
+  "name": "handlebars-helper-analytics",
+  "description": "Handlebars helper for adding Google Analytics scripts to the head and/or footer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/helpers/handlebars-helper-analytics",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "http://github.com/jonschlinkert/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helpers/handlebars-helper-analytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helpers/handlebars-helper-analytics/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/helpers/handlebars-helper-analytics/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "docs",
+    "documentation",
+    "generate",
+    "generator",
+    "markdown",
+    "templates",
+    "verb"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "mocha -R test"
+  },
+  "devDependencies": {
+    "verb": "~0.2.0"
+  }
+}
