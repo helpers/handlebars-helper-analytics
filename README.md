@@ -1,6 +1,6 @@
 # handlebars-helper-analytics [![NPM version](https://badge.fury.io/js/handlebars-helper-analytics.png)](http://badge.fury.io/js/handlebars-helper-analytics)
 
-> Handlebars helper for adding Google Analytics scripts to the head and/or footer
+> Handlebars helper for adding Google Analytics scripts to the head and/or footer of a webpage.
 
 ## Install
 Install with [npm](npmjs.org):

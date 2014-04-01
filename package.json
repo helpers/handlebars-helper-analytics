@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helper-analytics",
-  "description": "Handlebars helper for adding Google Analytics scripts to the head and/or footer",
+  "description": "Handlebars helper for adding Google Analytics scripts to the head and/or footer of a webpage.",
   "version": "0.1.0",
   "homepage": "https://github.com/helpers/handlebars-helper-analytics",
   "author": {
