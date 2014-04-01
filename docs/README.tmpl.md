@@ -1,4 +1,4 @@
-# {%= name %} {%= badge("fury") %}
+# {{{%= shortname(name) %}}} {%= badge("fury") %}
 
 > {%= description %}
 
