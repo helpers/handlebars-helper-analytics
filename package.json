@@ -30,12 +30,12 @@
     "verb"
   ],
   "engines": {
-    "node": ">=0.8"
+    "node": ">=0.10.0"
   },
   "scripts": {
     "test": "mocha -R test"
   },
   "devDependencies": {
-    "verb": "~0.2.0"
+    "verb": "^0.2.14"
   }
 }
