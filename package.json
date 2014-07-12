@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-analytics",
   "description": "Handlebars helper for adding Google Analytics scripts to the head and/or footer of a webpage.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/helpers/handlebars-helper-analytics",
   "author": {
     "name": "Jon Schlinkert",
@@ -21,13 +21,13 @@
     }
   ],
   "keywords": [
-    "docs",
-    "documentation",
-    "generate",
-    "generator",
-    "markdown",
-    "templates",
-    "verb"
+    "handlebars-helper",
+    "handlebars",
+    "helper",
+    "helpers",
+    "google",
+    "ga",
+    "analytics"
   ],
   "engines": {
     "node": ">=0.10.0"
