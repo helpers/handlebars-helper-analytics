@@ -25,7 +25,8 @@ Assuming you have the following data object:
 google: {
   analytics: {
     account: "UA-XXXXXX",
-    sideid: "XXXXXXX"
+    domain: "assemble.github.io"
+    siteid: "XXXXXXX"
   }
 }
 ```
