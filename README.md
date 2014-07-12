@@ -50,6 +50,10 @@ You would pass the `google.analytics` object as context to the helper, like this
 
 ## Author
 
+**Jon Schlinkert**
+ 
++ [github/helpers](https://github.com/helpers)
++ [twitter/helpers](http://twitter.com/helpers) 
 
 ## License
 Copyright (c) 2014 Jon Schlinkert, contributors.  
